@@ -3,11 +3,11 @@ WARNING: Failed to find function "__sanitizer_acquire_crash_state".
 WARNING: Failed to find function "__sanitizer_print_stack_trace".
 WARNING: Failed to find function "__sanitizer_set_death_callback".
 INFO: Running with entropic power schedule (0xFF, 100).
-INFO: Seed: 2345835140
+INFO: Seed: 3426580410
 INFO:      742 files found in /github/workspace/cifuzz-corpus/idna_fuzzer
 INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 4096 bytes
-INFO: seed corpus: files: 742 min: 1b max: 1781b total: 57395b rss: 39Mb
-#743	INITED cov: 304 ft: 907 corp: 170/10091b exec/s: 743 rss: 39Mb
+INFO: seed corpus: files: 742 min: 1b max: 1781b total: 57395b rss: 41Mb
+#743	INITED cov: 304 ft: 907 corp: 167/10037b exec/s: 743 rss: 41Mb
 Done 745 in 1 second(s)
 INFO: Instrumentation complete.
 INFO: Instrumenting idna
